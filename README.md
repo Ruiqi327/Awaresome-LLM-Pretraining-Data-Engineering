@@ -11,8 +11,6 @@
 
 **Scope:** text-based pretraining, including code and mathematical text. Document extraction is included when its output becomes text training data. Model architectures, instruction-tuning-only datasets, RLHF recipes, and multimodal alignment are outside the list's methodological scope.
 
-**Last source check: 2026-10-13 · 109 papers · 17 additions beyond the survey.** This is a curated snapshot, not an exhaustive index.
-
 > **How to read the tables.** Years use the first submission date on the linked arXiv record, which can differ from the conference year or the digits in an arXiv identifier. Titles are taken from the current record. **Code** denotes a research implementation; **Model repo**, **Pipeline**, **Eval/data**, and **Cookbook** describe other official resources. A repository link does not imply that a complete pretraining pipeline or training data is released. **—** means no official repository was verified in this curation pass, not that none exists.
 
 ## Contents
