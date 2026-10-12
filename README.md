@@ -1,5 +1,5 @@
 <a id="top"></a>
-<p align="center"><img src="asset/logo.png" alt="LLM Pretraining Data Engineering" width="900"></p>
+<p align="center"><img src="asset/logo.png" alt="LLM Pretraining Data Engineering" width="600"></p>
 
 <h1 align="center">Awesome Pretraining Data Engineering</h1>
 <p align="center"><b>A curated reading list on the data that shapes language models.</b></p>
