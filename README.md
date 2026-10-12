@@ -1,5 +1,5 @@
 <a id="top"></a>
-<p align="center"><img src="asset/logo.png" alt="LLM Pretraining Data Engineering" width="900"></p>
+<p align="center"><img src="asset/logo.png" alt="LLM Pretraining Data Engineering" width="600"></p>
 
 <h1 align="center">Awesome Pretraining Data Engineering</h1>
 <p align="center"><b>A curated reading list on the data that shapes language models.</b></p>
@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/papers-109-2563eb" alt="109 papers">
 </p>
 <p align="center"><a href="#reading-guide">Reading guide</a> · <a href="#technical-reports">Technical reports</a> · <a href="asset/LLM_Data_Survey_Revised.pdf">Our survey (PDF)</a></p>
-
-This collection follows **corpus construction → data utilization → pretraining evaluation**, informed by [*Data Engineering in Large Language Model Pretraining: A Survey*](asset/LLM_Data_Survey_Revised.pdf). Technical reports from major model developers are collected in one place; methodological papers are organized by a small number of practical themes.
 
 **Scope:** text-based pretraining, including code and mathematical text. Document extraction is included when its output becomes text training data. Model architectures, instruction-tuning-only datasets, RLHF recipes, and multimodal alignment are outside the list's methodological scope.
 
