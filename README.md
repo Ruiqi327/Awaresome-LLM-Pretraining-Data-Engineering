@@ -9,11 +9,7 @@
 </p>
 <p align="center"><a href="#reading-guide">Reading guide</a> · <a href="#technical-reports">Technical reports</a> · <a href="asset/LLM_Data_Survey_Revised.pdf">Our survey (PDF)</a></p>
 
-This collection follows **corpus construction → data utilization → pretraining evaluation**, informed by [*Data Engineering in Large Language Model Pretraining: A Survey*](asset/LLM_Data_Survey_Revised.pdf). Technical reports from major model developers are collected in one place; methodological papers are organized by a small number of practical themes.
-
 **Scope:** text-based pretraining, including code and mathematical text. Document extraction is included when its output becomes text training data. Model architectures, instruction-tuning-only datasets, RLHF recipes, and multimodal alignment are outside the list's methodological scope.
-
-**Last source check: 2026-10-13 · 145 papers.** This is a curated snapshot, not an exhaustive index.
 
 > **How to read the tables.** Each literature table is sorted newest first, using first-submission dates within the same year. Years use the first submission date on the linked arXiv record, which can differ from the conference year or the digits in an arXiv identifier. Titles are taken from the current record. **Code** denotes a research implementation; **Model repo**, **Pipeline**, **Eval/data**, and **Cookbook** describe other official resources. A repository link does not imply that a complete pretraining pipeline or training data is released. **—** means no official repository was verified in this curation pass, not that none exists.
 
