@@ -9,11 +9,8 @@
 </p>
 <p align="center"><a href="#reading-guide">Reading guide</a> · <a href="#technical-reports">Technical reports</a> · <a href="asset/LLM_Data_Survey_Revised.pdf">Our survey (PDF)</a></p>
 
-This collection follows **corpus construction → data utilization → pretraining evaluation**, informed by [*Data Engineering in Large Language Model Pretraining: A Survey*](asset/LLM_Data_Survey_Revised.pdf). Technical reports from major model developers are collected in one place; methodological papers are organized by a small number of practical themes.
 
 **Scope:** text-based pretraining, including code and mathematical text. Document extraction is included when its output becomes text training data. Model architectures, instruction-tuning-only datasets, RLHF recipes, and multimodal alignment are outside the list's methodological scope.
-
-**Last source check: 2026-10-13 · 200 papers.** This is a curated snapshot, not an exhaustive index.
 
 > **How to read the tables.** Each literature table is sorted newest first, using first-submission dates within the same year. Years use the first submission date on the linked arXiv record, which can differ from the conference year or the digits in an arXiv identifier. Titles are taken from the current record. **Code** denotes a research implementation; **Code/data** includes accompanying data and **Dataset** points to a data release; **Model repo**, **Model collection**, **Pipeline**, **Eval/data**, and **Cookbook** describe other official resources. A repository link does not imply that a complete pretraining pipeline or training data is released. **—** means no official repository was verified in this curation pass, not that none exists.
 
@@ -70,8 +67,6 @@ For industry practice, compare the data sections of **Llama 3**, **Qwen3**, **De
 ## 🏢 1. Technical reports from major model developers
 
 Integrated accounts of corpus sources, filtering, synthesis, mixtures and training stages. Companies and major open-model research teams are grouped together here; architecture and post-training methods are outside this list’s methodological scope.
-
-**DeepSeek V4 coverage:** the V4 report jointly covers **V4-Pro and V4-Flash**; **V4.1-Flash** has a separate report. V4-Pro-Max is a reasoning-effort mode described in the shared V4 report. For V4.1-Flash, this list focuses on text/code curation; its reported 45T-token total includes multimodal data.
 
 **50 papers**
 
