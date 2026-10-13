@@ -2,13 +2,13 @@
 <p align="center"><img src="asset/logo.png" alt="LLM Pretraining Data Engineering" width="900"></p>
 
 <h1 align="center">Awesome Pretraining Data Engineering</h1>
+<p align="center"><b>English</b> · <a href="README_zh.md">简体中文</a></p>
 <p align="center"><b>A curated reading list on the data that shapes language models.</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/scope-text_pretraining-0f766e" alt="Scope: text pretraining">
   <img src="https://img.shields.io/badge/papers-200-2563eb" alt="200 papers">
 </p>
 <p align="center"><a href="#reading-guide">Reading guide</a> · <a href="#technical-reports">Technical reports</a> · <a href="asset/LLM_Data_Survey_Revised.pdf">Our survey (PDF)</a></p>
-
 
 **Scope:** text-based pretraining, including code and mathematical text. Document extraction is included when its output becomes text training data. Model architectures, instruction-tuning-only datasets, RLHF recipes, and multimodal alignment are outside the list's methodological scope.
 
